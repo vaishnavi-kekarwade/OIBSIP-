@@ -1,0 +1,19 @@
+Task 1 - EDA on Retail Sales Data
+  ## AICTE Oasis Infobyte DA Internship
+
+  ## Objective 
+   Performed Exploratory Data Analysis on a retail
+   Sales dataset to uncover trends and business insights
+
+  ##Tool Used
+  Python , Pandas , Matplotlib , Seaborn , Numpy
+
+  ##Key findings
+- May had the highest sales
+-Electronics was the top selling category
+-Female customers sent more overall
+- Customers aged 40-42 were most frequent buyers
+
+## dataset
+    retail_sales_dataset.csv
+  
