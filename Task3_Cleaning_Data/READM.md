@@ -1,4 +1,4 @@
-## Data Cleaning - Airbnb NYC Dataset
+# Data Cleaning - Airbnb NYC Dataset
 Performed data cleaning on Airbnb NYC 2019 dataset.
 
 - Handled missing values in name, host_name, last_review columns
