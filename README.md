@@ -1,9 +1,4 @@
 
-#AICTE Oasis Infobyte Data Analytics Internship
-
-#Demo Video
-[Click here to watch project demo](https://drive.google.com/file/d/1X39YErr2nxdeVjqHwkl288agUTn_KheU/view)
-
 #Projects Completed
  Task 1 - EDA on Retail Sales
  <br>
